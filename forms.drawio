@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ppQE7w3QDt00TgJDZWBN" name="Сторінка-4">
-    <mxGraphModel dx="2528" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2635" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,9 +378,6 @@
         <mxCell id="b2ITXQFjPkYeeHDVOh84-13" value="form 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2240" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2ITXQFjPkYeeHDVOh84-14" value="&lt;div style=&quot;color: rgb(209, 211, 219); background-color: rgb(24, 29, 39); font-family: &amp;quot;JetBrains Mono&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 28px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: rgb(130, 217, 159);&quot;&gt;?????????? POST&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="640" width="170" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="b2ITXQFjPkYeeHDVOh84-15" value="&lt;div style=&quot;color: rgb(209, 211, 219); background-color: rgb(24, 29, 39); font-family: &amp;quot;JetBrains Mono&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 28px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: #82d99f;&quot;&gt;analysis/analyze_property/?property_id=&lt;/span&gt;&lt;span style=&quot;color: #f2858c;&quot;&gt;${&lt;/span&gt;&lt;span style=&quot;color: #ded47e;&quot;&gt;property&lt;/span&gt;&lt;span style=&quot;color: #82d99f;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e0e3ee;&quot;&gt;_id&lt;/span&gt;&lt;span style=&quot;color: #f2858c;&quot;&gt;} POST&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1440" y="980" width="590" height="40" as="geometry" />
         </mxCell>
@@ -431,6 +428,14 @@
         </mxCell>
         <mxCell id="b2ITXQFjPkYeeHDVOh84-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.093;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b2ITXQFjPkYeeHDVOh84-22" target="ZnyY1L5BFLz_Gj6ocObE-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b2ITXQFjPkYeeHDVOh84-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.525;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b2ITXQFjPkYeeHDVOh84-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2409.25" y="642.48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b2ITXQFjPkYeeHDVOh84-26" value="&lt;div style=&quot;color: rgb(209, 211, 219); background-color: rgb(24, 29, 39); font-family: &amp;quot;JetBrains Mono&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 28px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: rgb(130, 217, 159);&quot;&gt;/property/properties/ UPDATE&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="640" width="290" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
